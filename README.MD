@@ -37,9 +37,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohadbekhor0705&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohadbekhor0705&layout=compact&hide=other&theme=radical" width="450"/>
-</div>
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohadbekhor0705&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohadbekhor0705&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ohadbekhor0705&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
